@@ -1,7 +1,7 @@
 <h1 align="center">✨ Gabriela Quintilho ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ToMjGpP1Z8JdC/giphy.gif" width="200" alt="The Sims Plumbob" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" />
 </p>
 
 <p align="center">
@@ -32,22 +32,6 @@
 
 - 🇧🇷 Portuguese (Native)
 - 🇺🇸 English (Advanced)
-
----
-
-### 💼 Experience
-
-**🚀 Full-Stack Developer @ ChiO SPARK Initiative**  
-_Remoto, USA – 02/2025 ~ Present_  
-- CRM escalável com MERN stack  
-- Autenticação JWT + middleware  
-- Otimização de queries MongoDB  
-- Colaboração ágil com times internacionais
-
-**🌐 Technical Translator @ FreeCodeCamp**  
-_Remoto, USA – 02/2025 ~ Present_  
-- Tradução EN ↔ PT de tutoriais técnicos  
-- Contribuição ativa open-source global
 
 ---
 
